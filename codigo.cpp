@@ -42,3 +42,10 @@ void loop() {
     acende(unidades, unidade);
     delay(1000);  // Exibe a unidade da temperatura por 1 segundo
 }
+
+
+/*
+# Termometro-Com-Display-de-7-Segmentos
+
+#github.com/gustav0lima
+*/
